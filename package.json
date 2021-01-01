@@ -1,0 +1,27 @@
+{
+  "name": "copy-markdown-link",
+  "version": "0.0.1",
+  "description": "Copy the current link in the markdown format",
+  "main": "main.js",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowply/copy-markdown-link.git"
+  },
+  "keywords": [
+    "markdown",
+    "bookmarklet"
+  ],
+  "author": "Sho Mizutani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lowply/copy-markdown-link/issues"
+  },
+  "homepage": "https://github.com/lowply/copy-markdown-link#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "terser": "^5.5.1"
+  }
+}
