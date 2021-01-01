@@ -1,6 +1,6 @@
 # Copy markdown Link bookmarklet
 
-Copy the current link in the markdown format: `[title](url)`
+A bookmarklet that copies current URL in the markdown format: `[title](url)`
 
 ## Usage
 
